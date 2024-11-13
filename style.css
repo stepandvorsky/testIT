@@ -1,0 +1,24 @@
+body{
+    background-image: url(2127810-3840x2160-desktop-4k-internet-wallpaper-photo.jpg);
+    background-size: cover;
+}
+
+.nadpis{
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+.nadpis2{
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+.list{
+    color: black;
+    text-align: left;
+    font-style: oblique;
+    font-size: x-large;
+    list-style-type: square;
+}
